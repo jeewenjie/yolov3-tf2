@@ -1,4 +1,5 @@
 # YoloV3 Implemented in TensorFlow 2.0
+git clone https://github.com/tensorflow/models.git to create TFRecord.
 
 This repo provides a clean implementation of YoloV3 in TensorFlow 2.0 using all the best practices.
 
